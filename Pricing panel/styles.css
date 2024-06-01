@@ -23,8 +23,6 @@ section{
 }
 div{
     text-align: center;
-    /* border: 10px; */
-    /* width: fit-content; */
     align-items: center;
     align-content: center;
     display: inline;
@@ -39,8 +37,6 @@ div{
 #new{
     text-align: center;
     color: #016ff9;;
-    /* display: flex; */
-  /* justify-content: space-between;  */
   align-items: center;
 }
 #lis{
@@ -81,8 +77,6 @@ button{
     padding: 1em 40px;
     border-radius: 10px;
     color: #60a9ff;
-    /* border: #60a9ff; */
-    /* justify-content: space-evenly; */
     border-color: #60a9ff;
     background-color: #ffffff;
 }
